@@ -1,5 +1,20 @@
-https://freeiptvserver.com/dl/exyu_100320_iptvsource_com.m3u
-https://freeiptvserver.com/dl/exyu_100320_iptvsource_com2.m3u
-https://freeiptvserver.com/dl/exyu_100320_iptvsource_com3.m3u
-https://freeiptvserver.com/dl/exyu_100320_iptvsource_com4.m3u
-https://freeiptvserver.com/dl/exyu_100320_iptvsource_com5.m3u
+#EXTINF:0,HRT 1
+http://193.111.141.232:8091/?c=hrt1&u=sebastian&p=iptv
+#EXTINF:0,HRT 2
+http://193.111.141.232:8091/?c=hrt2&u=sebastian&p=iptv
+#EXTINF:0,RTL
+http://178.218.162.146/918829941/rtl1.stream/media.m3u8
+#EXTINF:0,RTL (Server 2)
+http://193.111.141.232:8091/?c=RTL&u=sebastian&p=iptv
+#EXTINF:0,RTL 2
+http://193.111.141.232:8091/?c=rtl2&u=sebastian&p=iptv
+#EXTINF:0,NOVA TV
+rtmp://193.111.140.94:1936/live2/ch07?u=dreamsat&p=dreamsat
+#EXTINF:0,DOMA TV
+http://193.111.141.232:8091/?c=doma&u=sebastian&p=iptv
+#EXTINF:0,SPTV
+http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8
+#EXTINF:0,24SATA TV
+http://cds.x8c9x9z3.hwcdn.net/live/ngrp:24tv_live_mbr/media.m3u8
+#EXTINF:0,AL JAZEERA BALKANS
+http://www.youtube.com/watch?v=ePpjbuXHT9g
